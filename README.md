@@ -55,29 +55,6 @@ A modern, responsive personal portfolio website built with HTML, TailwindCSS, an
 - Any modern web browser
 - Internet connection (for loading CDN resources)
 
-### Installation & Viewing
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/dharsahan/Portfolio.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd Portfolio
-   ```
-3. Open the `index.html` file in your browser:
-   ```
-   # On Windows
-   start index.html
-   
-   # On macOS
-   open index.html
-   
-   # On Linux
-   xdg-open index.html
-   ```
-
-Alternatively, you can use a local development server like Live Server extension for VS Code.
 
 ## 🔄 Future Enhancements
 
@@ -96,10 +73,4 @@ Alternatively, you can use a local development server like Live Server extension
 - **LinkedIn**: [Dharshan Balaji](https://linkedin.com/in/dharshan-balaji-a72a67308)
 - **GitHub**: [dharsahan](https://github.com/dharsahan)
 
-## 📝 License
 
-This project is available for use under the [MIT License](LICENSE).
-
----
-
-© 2025 Dharshan Balaji. All Rights Reserved.
